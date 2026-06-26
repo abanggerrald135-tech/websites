@@ -1,4 +1,4 @@
-# User manual
+gg game spaces# User manual
 
 [[toc]]
 
